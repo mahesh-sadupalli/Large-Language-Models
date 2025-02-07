@@ -39,6 +39,9 @@ This repository is a **coding-focused** collection of scripts, notebooks, and to
 - Deploying on **AWS, GCP, and Azure**
 - Running LLMs on **edge devices (Raspberry Pi, Jetson Nano)**
 
+### License
+- [License](#license)
+
 ---
 
 This repo will be updated regularly with **new scripts, notebooks, and optimizations** for working with **LLMs efficiently**. 🚀

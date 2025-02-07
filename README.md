@@ -1,5 +1,7 @@
 # Large Language Models (LLMs) 
 
+![](resources/image8.gif)
+
 This repository is a **coding-focused** collection of scripts, notebooks, and tools related to **Large Language Models (LLMs)**. It covers practical aspects of working with LLMs, including fine-tuning, optimization, inference, and deployment.
 
 ---

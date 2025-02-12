@@ -8,15 +8,15 @@ This repository is a **coding-focused** collection of scripts, notebooks, and to
 
 ## Topics Covered
 
-###  **1. Working with Pretrained LLMs**
-- Using **GPT**, **BERT**, **LLaMA**, and other models
-- Implementing **text generation**, **summarization**, and **question answering**
-- Using **transformers pipeline** for quick inference
-
-###  **2. Tokenization & Preprocessing**
+###  **1. Tokenization & Preprocessing**
 - WordPiece, Byte-Pair Encoding (BPE), SentencePiece
 - Custom tokenizers for domain-specific models
 - Tokenization speed & memory optimization
+
+###  **2. Working with Pretrained LLMs**
+- Using **GPT**, **BERT**, **LLaMA**, and other models
+- Implementing **text generation**, **summarization**, and **question answering**
+- Using **transformers pipeline** for quick inference
 
 ###  **3. Fine-Tuning Large Language Models**
 - Fine-tuning **BERT for text classification**
